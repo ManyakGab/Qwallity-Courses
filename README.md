@@ -1,4 +1,4 @@
-# Qwallity-Courses1234
+# Qwallity-Courses
 
 
 In QWallity courses i have learn this following lessons
